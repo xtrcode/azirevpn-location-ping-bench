@@ -1,0 +1,246 @@
+{
+    "status": "success",
+    "locations": [
+        {
+            "name": "ar-bue",
+            "city": "Buenos Aires",
+            "country": "Argentina",
+            "iso": "ar",
+            "pool": "ar-bue.azirevpn.net",
+            "pubkey": "HjziGvLqDPeFpsmU6aOT6DIEUleQ2bkppPmWeAy8fT0="
+        },
+        {
+            "name": "ca-tor",
+            "city": "Toronto",
+            "country": "Canada",
+            "iso": "ca",
+            "pool": "ca-tor.azirevpn.net",
+            "pubkey": "p2NGYP6/RzLq8zfWjRaRFIIFywLGcK8lRWkdrXRE+Ho="
+        },
+        {
+            "name": "ch-zrh",
+            "city": "Z\u00fcrich",
+            "country": "Switzerland",
+            "iso": "ch",
+            "pool": "ch-zrh.azirevpn.net",
+            "pubkey": "9wmuJNFKOH1wvPFW6CS/f3lwY7YnZ4ol37rkjIvuxX8="
+        },
+        {
+            "name": "de-ber",
+            "city": "Berlin",
+            "country": "Germany",
+            "iso": "de",
+            "pool": "de-ber.azirevpn.net",
+            "pubkey": "+KvNvDDtjCSFUegJAbnYntBmJb936GjzMu3zGddCfSE="
+        },
+        {
+            "name": "de-fra",
+            "city": "Frankfurt",
+            "country": "Germany",
+            "iso": "de",
+            "pool": "de-fra.azirevpn.net",
+            "pubkey": "6KGlJBayBxwavWaCsQgfrGZBEdNf0/0vNvHoWMyXXwA="
+        },
+        {
+            "name": "dk-cph",
+            "city": "Copenhagen",
+            "country": "Denmark",
+            "iso": "dk",
+            "pool": "dk-cph.azirevpn.net",
+            "pubkey": "bp0LA6FyzOq7VPUQyaRigPq2ZZRrjgoIJ7/fsxs1L3I="
+        },
+        {
+            "name": "es-mad",
+            "city": "Madrid",
+            "country": "Spain",
+            "iso": "es",
+            "pool": "es-mad.azirevpn.net",
+            "pubkey": "KWHTarn7MvRayoRm5Bv1RkBi7fh6Oj7qGGaia1sl4Qw="
+        },
+        {
+            "name": "es-mal",
+            "city": "M\u00e1laga",
+            "country": "Spain",
+            "iso": "es",
+            "pool": "es-mal.azirevpn.net",
+            "pubkey": "vfeEsNMxM8OM3lk/0eTAjBv3MrxbLPFoSXVtANnFeSc="
+        },
+        {
+            "name": "fi-hel",
+            "city": "Helsinki",
+            "country": "Finland",
+            "iso": "fi",
+            "pool": "fi-hel.azirevpn.net",
+            "pubkey": "7HmWjplnRB+Ho/3xJWHVHACpDx3KjYztpqoOhEpilEo="
+        },
+        {
+            "name": "fr-par",
+            "city": "Paris",
+            "country": "France",
+            "iso": "fr",
+            "pool": "fr-par.azirevpn.net",
+            "pubkey": "s+vJxWBIZqSN6980ha0Nfk2EoMJa2j3FQ1NrSQERlE8="
+        },
+        {
+            "name": "gb-lon",
+            "city": "London",
+            "country": "United Kingdom",
+            "iso": "gb",
+            "pool": "gb-lon.azirevpn.net",
+            "pubkey": "vNFZiDinSYNotCVZC3lzHDxSwFQ1XsmdF/tKt1+aK0w="
+        },
+        {
+            "name": "hk-hkg",
+            "city": "Hong Kong",
+            "country": "Hong Kong",
+            "iso": "hk",
+            "pool": "hk-hkg.azirevpn.net",
+            "pubkey": "xNBQ9U6Xk1YsWw0QirhaaXX15Df8OKLKRv605sk9YGw="
+        },
+        {
+            "name": "it-mil",
+            "city": "Milan",
+            "country": "Italy",
+            "iso": "it",
+            "pool": "it-mil.azirevpn.net",
+            "pubkey": "jdf4cwBO6aJYyWoqM5WbF1oyOZbieHow5K3hjHp03Tg="
+        },
+        {
+            "name": "nl-ams",
+            "city": "Amsterdam",
+            "country": "Netherlands",
+            "iso": "nl",
+            "pool": "nl-ams.azirevpn.net",
+            "pubkey": "W+LE+uFRyMRdYFCf7Jw0OPERNd1bcIm0gTKf/traIUk="
+        },
+        {
+            "name": "no-osl",
+            "city": "Oslo",
+            "country": "Norway",
+            "iso": "no",
+            "pool": "no-osl.azirevpn.net",
+            "pubkey": "tjLpPmmJEpI4/urRi6cMCewLBcJWjabxmOh8+UH5nRY="
+        },
+        {
+            "name": "ro-buh",
+            "city": "Bucharest",
+            "country": "Romania",
+            "iso": "ro",
+            "pool": "ro-buh.azirevpn.net",
+            "pubkey": "PGhtux4Oq/zZOtRylPY6DyMYuoqTkLB5mqpOH6qBdUw="
+        },
+        {
+            "name": "se-got",
+            "city": "Gothenburg",
+            "country": "Sweden",
+            "iso": "se",
+            "pool": "se-got.azirevpn.net",
+            "pubkey": "6gCTdzDn9vxG+0ixPvHsHjLnC5bY0RmsT+niIzNPpxo="
+        },
+        {
+            "name": "se-mma",
+            "city": "Malm\u00f6",
+            "country": "Sweden",
+            "iso": "se",
+            "pool": "se-mma.azirevpn.net",
+            "pubkey": "kVQ/x2vyHPqs0vLJp+/d9oGEtSYcP9CtnDgkaZqRgjY="
+        },
+        {
+            "name": "se-sto",
+            "city": "Stockholm",
+            "country": "Sweden",
+            "iso": "se",
+            "pool": "se-sto.azirevpn.net",
+            "pubkey": "VYRJwI6n2Rpvh/gmYnUoyMJQDrUSdxls0JX9/6JlOEw="
+        },
+        {
+            "name": "sg-sin",
+            "city": "Singapore",
+            "country": "Singapore",
+            "iso": "sg",
+            "pool": "sg-sin.azirevpn.net",
+            "pubkey": "/bHUZH87m0qtxF5etabQdxQ+aIFXMo91xFcPLts4x3E="
+        },
+        {
+            "name": "th-hkt",
+            "city": "Rawai",
+            "country": "Thailand",
+            "iso": "th",
+            "pool": "th-hkt.azirevpn.net",
+            "pubkey": "LjdTuAOyR39wT7izDT/DnRLzgyfTRT8k2Ub92mDG8A0="
+        },
+        {
+            "name": "ua-iev",
+            "city": "Kyiv",
+            "country": "Ukraine",
+            "iso": "ua",
+            "pool": "ua-iev.azirevpn.net",
+            "pubkey": "PnO60hl6Ah8/vS4GV8MIfTmP96LBsfHxDJwavSYqsQo="
+        },
+        {
+            "name": "us-chi",
+            "city": "Chicago",
+            "country": "United States",
+            "iso": "us",
+            "pool": "us-chi.azirevpn.net",
+            "pubkey": "vCuwEP5vK7sjcMiyRVFDs7QFavAvvLi9jpV7xUSsSgc="
+        },
+        {
+            "name": "us-dal",
+            "city": "Dallas",
+            "country": "United States",
+            "iso": "us",
+            "pool": "us-dal.azirevpn.net",
+            "pubkey": "dNG/OKKUpyz0Z5vMFOmxzqjfb47PTpllqmahgXAGGUU="
+        },
+        {
+            "name": "us-mia",
+            "city": "Miami",
+            "country": "United States",
+            "iso": "us",
+            "pool": "us-mia.azirevpn.net",
+            "pubkey": "7U3kXuo8v1OgwRTpDArh4eOB3bl2G165eQq8uvFr118="
+        },
+        {
+            "name": "us-nyc",
+            "city": "New York",
+            "country": "United States",
+            "iso": "us",
+            "pool": "us-nyc.azirevpn.net",
+            "pubkey": "HkIMh8QUhIbHte7X0pLWkfn7a1psF5+kngq23ZpPDQU="
+        },
+        {
+            "name": "us-sea",
+            "city": "Seattle",
+            "country": "United States",
+            "iso": "us",
+            "pool": "us-sea.azirevpn.net",
+            "pubkey": "taFuUQVlzNMrw+5macMd0O+w9rS3snsc26Bd199bbXI="
+        },
+        {
+            "name": "us-sfo",
+            "city": "San Francisco",
+            "country": "United States",
+            "iso": "us",
+            "pool": "us-lax.azirevpn.net",
+            "pubkey": "2/hyw6fg7PJlczUDvQxx7EvBwkT2tqO19mncQjQ+M1U="
+        }
+    ],
+    "dns": [
+        {
+            "name": "Internal",
+            "ipv4": "10.0.0.1",
+            "ipv6": "2a0e:1c80:1337:1:10::1"
+        },
+        {
+            "name": "SE Stockholm 1",
+            "ipv4": "91.231.153.2",
+            "ipv6": "2001:67c:15ec:1337::2"
+        },
+        {
+            "name": "SE Stockholm 2",
+            "ipv4": "192.211.0.2",
+            "ipv6": "2a0a:3507::2"
+        }
+    ]
+}
